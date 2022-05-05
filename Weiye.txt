@@ -1,0 +1,5 @@
+My name is Weiye Ding , this is the last semester of  my third year.
+This also the first time to do a project ny myself.
+For final project I want to create a website that can show a sport website like schedule notebook.
+people there can write down some notes and notice them when that day is coming. 
+Also they can mark if they finish the job early.
